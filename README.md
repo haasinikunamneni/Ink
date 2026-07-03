@@ -1,5 +1,5 @@
-# Bullet Journal — macOS App (Source)
-
+# INK — macOS App (Source)
+A To-do application i made as a personal project to cater to my minimal needs
 A floating, Spotlight-style bullet journal for macOS. Matte black page,
 two hand-drawn boxes (Upcoming + Today's Page), nothing else. History
 lives entirely in Apple Notes — the app never becomes a dashboard.
